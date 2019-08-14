@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Cara Menghubungkan Domain ke github
 
-You can use the [editor on GitHub](https://github.com/myitechnet/myitechnet.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Selamat datang di Bacigi.com
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
